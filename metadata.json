@@ -1,0 +1,7 @@
+{
+  "name": "Visual Industry Insights 2024",
+  "description": "Una aplicación avanzada para analizar las tendencias semanales en impresión, personalización textil, wrapping y tecnología gráfica utilizando IA de vanguardia y búsqueda en tiempo real.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
